@@ -1,0 +1,9 @@
+requests
+time
+platform
+os
+colorama
+wmi
+subprocess
+json
+bs4
