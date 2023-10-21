@@ -17,10 +17,13 @@ Well, a stylish and simple tool connected to the Telegram bot to hack Windows an
 
 Most of the tools do not work at the moment due to the launch of Tareh Masfaneh, and the tool will be launched for Android in the future, and I will be happy if you support it.
 
-> [wget https://github.com/contactolozhism/WinHack.git && bash setup.sh]
+>>install Termux
 
-My favorite color:
+> [wget https://github.com/contactolozhism/WinHack.git && pip install -r requirements.txt]
+> [python tel.py]
 
-> [COLOR NAME]
+>>install windows
+
+> [download priject and run pip install -r requirements.txt in cmd and python tel.py]
 
 Thank you so much for reading!
